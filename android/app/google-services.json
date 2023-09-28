@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "157544256211",
+    "project_id": "instagram-messenger-a268d",
+    "storage_bucket": "instagram-messenger-a268d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157544256211:android:53e4f394027c1f08387a26",
+        "android_client_info": {
+          "package_name": "com.example.instamessenger"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2SPxlRsPbiMw7-UGbEM8OkM4SW9JmNX8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
